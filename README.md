@@ -12,7 +12,7 @@ You will present your reasoning for each example, record your presentation using
 
 ## Step 1: Clone the Repository
 
-Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_JSL03
+Repo Link: https://github.com/CodeSpace-Academy/Module_3_cs20240127_wf02407_GroupD_Nthabiseng-Mashalane_JSL03
 
 1. Access the provided repository containing the starter code and presentation template.
 2. Clone the repository.
@@ -25,8 +25,9 @@ Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Gro
 
 ## Step 3: Record Your Presentation
 
-1. Use Loom (https://www.loom.com/).
-2. Create a single video presentation for both examples that include the following:
+Loom Link: https://www.loom.com/share/3d75842dd4284b57983620f91a4a52a0?sid=173adc1e-f7c1-42c1-881d-ecc78a2a923a
+
+1. Create a single video presentation for both examples that include the following:
 
    - Introduction of the example number.
    - Explanation of whether the example is imperative or declarative.
@@ -36,6 +37,8 @@ Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Gro
 3. Keep each video presentation concise, with a maximum length of 2 minutes for each example. Your total recording time should not exceed 5 minutes.
 
 ## Step 4: Insert Loom Links
+
+Loom Link: https:()
 
 1. After recording, upload your presentation videos to Loom.
 2. Obtain the Loom recording links for the video presentation.
